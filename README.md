@@ -87,19 +87,8 @@ ai-storybook-creator/
 ```
 
 ---
-
-## How to Deploy
-
-### Deploy on Streamlit Cloud (recommended, free)
-
-1. Push your project to a public GitHub repository
-2. Go to [share.streamlit.io](https://share.streamlit.io) and click **New app**
-3. Select your repo, branch, and set the main file to `app.py`
-4. Under **Advanced settings → Secrets**, add:
-   ```toml
-   GEMINI_API_KEY = "your_key_here"
-   ```
-5. Click **Deploy** — your app will be live in under a minute
+## Deployed on Streamlit Cloud (recommended, free)
+https://aistorybookcreator-bxakwbznp82undcekup5ua.streamlit.app/
 
 ---
 
